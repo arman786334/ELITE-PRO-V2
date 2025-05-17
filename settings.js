@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 //Feel free to customize my bot informations to yours. Starting from this point
 //owmner v card
-global.ytname = "YT: ElitePro" //ur yt chanel name
+global.ytname = "YT: Arman-SA" //ur yt chanel name
 global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new settings 
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.botname = 'Arman-SA' //ur bot name
+global.ownernumber = '03074311815' //ur owner number
+global.ownername = 'Arman' //ur owner name
 global.websitex = "https://youtube.com/@elitepro-empire"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' // Change this image link to yours.
 
@@ -18,7 +18,7 @@ global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
 global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2\n\n+2348109263390"
-global.creator = "2348109263390@s.whatsapp.net"
+global.creator = "03074311815@s.whatsapp.net"
 global.xprefix = '.' //set any prefix 
 global.premium = ["2348109263390"] // Premium User
 //Stop here. Thanks for choosing ELITEPRO.
